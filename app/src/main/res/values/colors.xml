@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E5BD8</color>
+    <color name="primary_dark">#1646A8</color>
+    <color name="accent">#E53935</color>
+    <color name="background">#F5F7FB</color>
+    <color name="text_primary">#1B1F27</color>
+    <color name="text_secondary">#5F6675</color>
+    <color name="ic_launcher_background">#1E5BD8</color>
+</resources>

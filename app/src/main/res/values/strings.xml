@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Word to PDF</string>
+    <string name="headline">Word to PDF</string>
+    <string name="subtitle">Convert .docx documents to PDF right on your phone. Works offline.</string>
+    <string name="step1">1. CHOOSE A WORD DOCUMENT</string>
+    <string name="step2">2. CONVERT</string>
+    <string name="no_file">No file selected</string>
+    <string name="pick">Choose Word file (.docx)</string>
+    <string name="convert">Convert &amp; save as PDF</string>
+    <string name="converting">Converting…</string>
+    <string name="failed">Conversion failed: %1$s</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="no_pdf_viewer">No PDF viewer app is installed.</string>
+    <string name="no_file_picker">No file manager available on this device.</string>
+    <string name="footer">Your files never leave your device.</string>
+    <plurals name="done">
+        <item quantity="one">✅ Done! PDF saved (%d page).</item>
+        <item quantity="other">✅ Done! PDF saved (%d pages).</item>
+    </plurals>
+</resources>
